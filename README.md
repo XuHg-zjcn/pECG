@@ -18,3 +18,7 @@
 ## 参考资料
 - [Protocentral/ADS1292rShield_Breakout](https://github.com/Protocentral/ADS1292rShield_Breakout/tree/master)
 - [TI官方 ADS1292R资料](https://www.ti.com/product/ADS1292R)
+
+## 版权和许可证
+Copyright (C) 2026  徐瑞骏  
+本设计使用的为许可证“CERN Open Hardware Licence Version 2 - Strongly Reciprocal”
